@@ -11865,10 +11865,10 @@ div#notebook {
 
 
 
-<div id="f8bd480b-f34d-4bbf-b479-dee1987ef238"></div>
+<div id="7d002ac7-944a-4296-93e5-61ccc1170559"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#f8bd480b-f34d-4bbf-b479-dee1987ef238');
+var element = $('#7d002ac7-944a-4296-93e5-61ccc1170559');
 require.undef("nbextensions/vpython_libraries/jquery-ui.custom.min");
 </script>
 </div>
@@ -11879,10 +11879,10 @@ require.undef("nbextensions/vpython_libraries/jquery-ui.custom.min");
 
 
 
-<div id="24e2e368-5083-45a8-b825-5facfe70b4ce"></div>
+<div id="0f3a99c1-335e-445c-a182-817f7f8f2895"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#24e2e368-5083-45a8-b825-5facfe70b4ce');
+var element = $('#0f3a99c1-335e-445c-a182-817f7f8f2895');
 require.undef("nbextensions/vpython_libraries/glow.2.1.min");
 </script>
 </div>
@@ -11893,10 +11893,10 @@ require.undef("nbextensions/vpython_libraries/glow.2.1.min");
 
 
 
-<div id="1d8d5179-1fa5-4880-ac58-d5080110d683"></div>
+<div id="40f4a1b0-e582-4bf5-9965-51375a01412e"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#1d8d5179-1fa5-4880-ac58-d5080110d683');
+var element = $('#40f4a1b0-e582-4bf5-9965-51375a01412e');
 require.undef("nbextensions/vpython_libraries/glowcomm");
 </script>
 </div>
@@ -11907,10 +11907,10 @@ require.undef("nbextensions/vpython_libraries/glowcomm");
 
 
 
-<div id="d5e5e531-3859-4d01-a1db-b72502fe250d"></div>
+<div id="e6e2edda-7959-4cf3-b705-6bbbc36d7ac1"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#d5e5e531-3859-4d01-a1db-b72502fe250d');
+var element = $('#e6e2edda-7959-4cf3-b705-6bbbc36d7ac1');
 require(["nbextensions/vpython_libraries/jquery-ui.custom.min"], function(){console.log("JQUERY LOADED");})
 </script>
 </div>
@@ -11921,10 +11921,10 @@ require(["nbextensions/vpython_libraries/jquery-ui.custom.min"], function(){cons
 
 
 
-<div id="68f825f0-d1cb-45d3-b002-ec31c8cef807"></div>
+<div id="b05699e5-f62a-48c3-b242-3d8dee25f619"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#68f825f0-d1cb-45d3-b002-ec31c8cef807');
+var element = $('#b05699e5-f62a-48c3-b242-3d8dee25f619');
 require(["nbextensions/vpython_libraries/glow.2.1.min"], function(){console.log("GLOW LOADED");})
 </script>
 </div>
@@ -11935,10 +11935,10 @@ require(["nbextensions/vpython_libraries/glow.2.1.min"], function(){console.log(
 
 
 
-<div id="1a6503a7-07ea-4a61-852a-c08a20352e0c"></div>
+<div id="3d6603fe-f2b9-46b3-aee4-e4f3573cdc1d"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#1a6503a7-07ea-4a61-852a-c08a20352e0c');
+var element = $('#3d6603fe-f2b9-46b3-aee4-e4f3573cdc1d');
 require(["nbextensions/vpython_libraries/glowcomm"], function(){console.log("GLOWCOMM LOADED");})
 </script>
 </div>
@@ -11957,10 +11957,10 @@ require(["nbextensions/vpython_libraries/glowcomm"], function(){console.log("GLO
 
 
 
-<div id="57a7830c-a0ce-4bae-b465-a6f9008e21fd"></div>
+<div id="ec8f89c1-4858-463c-87f0-dd6cb5b3aef7"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#57a7830c-a0ce-4bae-b465-a6f9008e21fd');
+var element = $('#ec8f89c1-4858-463c-87f0-dd6cb5b3aef7');
 window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </script>
 </div>
